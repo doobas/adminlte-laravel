@@ -14,7 +14,7 @@
   "require": {
     "php": "^8.0",
     "creativeorange/gravatar": "~1.0",
-    "laravel/framework": "^8.0",
+    "laravel/framework": "^6.20.0",
     "doobas/filesystem": "1.0.x-dev",
     "doobas/helpers": "1.0.x-dev",
     "league/flysystem": "^3.0",
