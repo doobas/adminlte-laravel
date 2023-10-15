@@ -17,7 +17,7 @@
     "laravel/framework": "^8.75",
     "doobas/filesystem": "1.0.x-dev",
     "doobas/helpers": "1.0.x-dev",
-    "league/flysystem": "^3.0",
+    "league/flysystem": "^1.0",
     "laravel/ui": "^3.0"
   },
   "require-dev": {
