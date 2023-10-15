@@ -1,5 +1,5 @@
 {
-  "name": "acacha/admin-lte-template-laravel",
+  "name": "doobas/admin-lte-template-laravel",
   "description": "AdminLTE template applied to Laravel Scaffolding",
   "license": "MIT",
   "type": "package",
@@ -7,18 +7,17 @@
   "homepage": "https://github.com/acacha/adminlte-laravel",
   "authors": [
     {
-      "name": "Sergi Tur Badenas",
-      "email": "sergiturbadenas@gmail.com",
-      "homepage": "http://acacha.org"
+      "name": "Ramunas Pabreza",
+      "email": "doobas@gmail.com"
     }
   ],
   "require": {
-    "php": "^7.3",
+    "php": "^8.0",
     "creativeorange/gravatar": "~1.0",
     "laravel/framework": "^8.0",
-    "acacha/filesystem": "^0.1.2",
-    "acacha/helpers": "^0.1.4",
-    "league/flysystem": "^1.0",
+    "doobas/filesystem": "1.0.x-dev",
+    "doobas/helpers": "1.0.x-dev",
+    "league/flysystem": "^3.0",
     "laravel/ui": "^3.0"
   },
   "require-dev": {
